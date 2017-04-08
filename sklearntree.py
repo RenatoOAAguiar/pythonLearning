@@ -8,7 +8,8 @@ Y = ['homem', 'homem', 'mulher', 'mulher', 'homem']
 
 
 decisoes = tree.DecisionTreeClassifier()
-decisoes = tree.fit(X, Y)
+
+decisoes = decisoes.fit(X, Y)
 
 predicao = decisoes.predict([190,90,46])
 
