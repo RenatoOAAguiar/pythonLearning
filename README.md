@@ -1,3 +1,3 @@
-# Exemplos de estudo em Python
-# Com foco em Data Science
+## Exemplos de estudo em Python
+ Foco em Data Science
 
